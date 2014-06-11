@@ -1,4 +1,6 @@
 SuncoastShipCo
 ==============
 
-The beginning
+The beginning...
+
+Figuring out GitHub
